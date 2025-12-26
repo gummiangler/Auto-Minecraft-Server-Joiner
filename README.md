@@ -1,4 +1,4 @@
-Auto Minecraft Server Joiner
+*Auto Minecraft Server Joiner*
 
 Beschreibung
 Auto Minecraft Server Joiner ist ein Python-Skript, das die Spieleranzahl eines Minecraft Java-Servers überwacht und automatisch klickt, sobald ein Slot frei wird. Zusätzlich wird eine Windows-Toast-Benachrichtigung angezeigt. Das Skript ist für Windows und 1080p Auflösung optimiert.
